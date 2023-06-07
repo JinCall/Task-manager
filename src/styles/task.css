@@ -1,0 +1,19 @@
+.task-action {
+    cursor: pointer;
+}
+
+.task-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-table-title {
+    padding-right: 8px;
+}
+
+.task-table-badge {
+    display: flex;
+    justify-content: center;
+}
